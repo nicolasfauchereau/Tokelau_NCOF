@@ -10,7 +10,7 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz)
 
 #### last day 
 
-<img src="https://github.com/nicolasfauchereau/Tokelau_NCOF/blob/main/NOAA_CRW/NOAA-CRW_anoms_map_1days_agg_latest.png" alt="NOAA CRW 1 days anomalies map" title="NOAA CRW 1 days anomalies map" width="700"/>
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/NOAA_CRW/NOAA-CRW_anoms_map_1days_agg_latest.png" alt="NOAA CRW 1 days anomalies map" title="NOAA CRW 1 days anomalies map" width="700"/>
 
 #### last 7 days 
 
