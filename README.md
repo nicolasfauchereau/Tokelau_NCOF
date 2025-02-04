@@ -12,6 +12,19 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz)
 
 ## monthly and seasonal climate forecasting 
 
+### deciles probabilities for Fakaofo, Nukunonu and Atafu 
+
+#### Fakaofo 
+
+<img src="https://github.com/nicolasfauchereau/Tokelau_NCOF/blob/main/C3S/Fakaofo_monthly_decile_probs_latest.png" alt="decile probabilities for Fakaofo" title="decile probabilities for Fakaofo" width="900"/>
+
+#### Nukunonu
+
+<img src="https://github.com/nicolasfauchereau/Tokelau_NCOF/blob/main/C3S/Nukunonu_monthly_decile_probs_latest.png" alt="decile probabilities for Nukunonu" title="decile probabilities for Nukunonu" width="900"/>
+
+#### Atafu
+
+<img src="https://github.com/nicolasfauchereau/Tokelau_NCOF/blob/main/C3S/Nukunonu_monthly_decile_probs_latest.png" alt="decile probabilities for Nukunonu" title="decile probabilities for Nukunonu" width="900"/>
 
 ## subseasonal forecasting 
 
