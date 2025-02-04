@@ -12,7 +12,7 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (Principal Sc
 
 ## [near realtime precipitation monitoring](https://nicolasfauchereau.github.io/Tokelau_NCOF/#near-realtime-precipitation-monitoring-1)
 
-- ### [latest daily anomalies maps](https://nicolasfauchereau.github.io/Tokelau_NCOF/#latest-daily-anomalies-map-1)
+- ### [latest daily anomalies maps](https://nicolasfauchereau.github.io/Tokelau_NCOF/#latest-daily-anomalies-map)
 
 - ### [Virtual Stations timeseries (daily)](https://nicolasfauchereau.github.io/Tokelau_NCOF/#virtual-stations-timeseries-daily-1)
 
