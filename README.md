@@ -1,8 +1,8 @@
-# Tokelau NCOF resources 
+# Resources and climate products for Tokelau's National Climate Outlook Forum  
 
-Preliminary clearing house for the climate products developed by NIWA to support Tokelau's National Climate Outlook Forums, funding provided by the WMO
+This webpage is a preliminary clearing house for the climate products developed by NIWA to support Tokelau's National Climate Outlook Forums, funding provided by the WMO. 
 
-Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz)
+Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (Principal Scientist, Climate & Analytics)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Sea Surface Temperature (SST) and Marine Heatwave (MHW) Tracking 
