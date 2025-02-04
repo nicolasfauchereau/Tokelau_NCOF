@@ -6,12 +6,19 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (Principal Sc
 
 ## [Sea Surface Temperature (SST) and Marine Heatwave (MHW) Tracking](https://nicolasfauchereau.github.io/Tokelau_NCOF/#sea-surface-temperature-sst-and-marine-heatwave-mhw-tracking)
 
-    - ### [SST anomalies maps and MHW conditions](https://nicolasfauchereau.github.io/Tokelau_NCOF/#sst-anomalies-maps-and-mhw-conditions)
+- ### [SST anomalies maps and MHW conditions](https://nicolasfauchereau.github.io/Tokelau_NCOF/#sst-anomalies-maps-and-mhw-conditions)
 
-    - ### [SST time-series for Tokelau’s Exclusive Economic Zone (EEZ)](https://nicolasfauchereau.github.io/Tokelau_NCOF/#sst-time-series-for-tokelaus-exclusive-economic-zone-eez)
+- ### [SST time-series for Tokelau’s Exclusive Economic Zone (EEZ)](https://nicolasfauchereau.github.io/Tokelau_NCOF/#sst-time-series-for-tokelaus-exclusive-economic-zone-eez)
 
+## [near realtime precipitation monitoring](https://nicolasfauchereau.github.io/Tokelau_NCOF/#near-realtime-precipitation-monitoring)
 
+- ### [latest daily anomalies maps](https://nicolasfauchereau.github.io/Tokelau_NCOF/#latest-daily-anomalies-map)
 
+- ### [Virtual Stations timeseries (daily)](https://nicolasfauchereau.github.io/Tokelau_NCOF/#virtual-stations-timeseries-daily)
+
+## [monthly and seasonal climate forecasting](https://nicolasfauchereau.github.io/Tokelau_NCOF/#monthly-and-seasonal-climate-forecasting)
+
+- ### [deciles probabilities for Fakaofo, Nukunonu and Atafu](https://nicolasfauchereau.github.io/Tokelau_NCOF/#deciles-probabilities-for-fakaofo-nukunonu-and-atafu)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Sea Surface Temperature (SST) and Marine Heatwave (MHW) Tracking 
