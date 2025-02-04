@@ -40,7 +40,7 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (Principal Sc
 
 ### latest daily anomalies map 
 
-#### 90 days accumulation (mm)
+#### 1 day accumulation (mm)
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_anoms_map_1days_accumulation_90days_latest.png" alt="MSWEP 2.8.0 latest 90 days accumulation" title="MSWEP 2.8.0 latest 90 days accumulation" width="700"/>
 
