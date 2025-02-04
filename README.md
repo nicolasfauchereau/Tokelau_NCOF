@@ -21,7 +21,7 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (Principal Sc
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/NOAA_CRW/NOAA-CRW_anoms_map_30days_agg_latest.png" alt="NOAA CRW 30 days anomalies map" title="NOAA CRW 30 days anomalies map" width="700"/>
 
-### time-series for Tokelau's Exclusive Economic Zone (EEZ)
+### SST time-series for Tokelau's Exclusive Economic Zone (EEZ)
 
 #### daily anomalies
 
@@ -40,13 +40,19 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (Principal Sc
 
 ### latest daily anomalies map 
 
-### Virtual Stations timeseries
+#### 90 days accumulation (mm)
 
-#### Fakaofo
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_anoms_map_1days_accumulation_90days_latest.png" alt="MSWEP 2.8.0 latest 90 days accumulation" title="MSWEP 2.8.0 latest 90 days accumulation" width="700"/>
 
-#### Nukunonu
+### Virtual Stations timeseries (daily)
 
-#### Atafu
+#### accumulation (mm)
+
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/TMS_virtual_stations_timeseries_1days_accumulation_90days_latest.png" alt="MSWEP 2.8.0 Virtual Stations timeseries accumulation" title="MSWEP 2.8.0 Virtual Stations timeseries accumulation" width="700"/>
+
+#### anomalies (mm)
+
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/TMS_virtual_stations_timeseries_1days_accumulation_anomalies_90days_latest.png" alt="MSWEP 2.8.0 Virtual Stations timeseries anomalies" title="MSWEP 2.8.0 Virtual Stations timeseries anomalies" width="700"/>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## monthly and seasonal climate forecasting 
