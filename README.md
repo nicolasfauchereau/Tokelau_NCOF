@@ -4,6 +4,7 @@ Preliminary clearing house for the climate products developed by NIWA to support
 
 Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Sea Surface Temperature (SST) and Marine Heatwave (MHW) Tracking 
 
 ### SST anomalies maps and MHW conditions 
@@ -34,10 +35,20 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz)
 
 <img src="https://github.com/nicolasfauchereau/Tokelau_NCOF/blob/main/NOAA_CRW/NOAA-CRW_anoms_timeseries_30days_agg_latest.png" alt="NOAA CRW 30 days anomalies timeseries" title="NOAA CRW 30 days anomalies timeseries" width="700"/>
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## near realtime precipitation monitoring
 
+### latest daily anomalies map 
 
+### Virtual Stations timeseries
+
+#### Fakaofo
+
+#### Nukunonu
+
+#### Atafu
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## monthly and seasonal climate forecasting 
 
 ### deciles probabilities for Fakaofo, Nukunonu and Atafu 
@@ -54,7 +65,8 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz)
 
 <img src="https://github.com/nicolasfauchereau/Tokelau_NCOF/blob/main/C3S/Nukunonu_monthly_decile_probs_latest.png" alt="decile probabilities for Nukunonu" title="decile probabilities for Nukunonu" width="700"/>
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## subseasonal forecasting 
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## tides calendar 
