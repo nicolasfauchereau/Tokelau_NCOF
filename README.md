@@ -82,16 +82,11 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_anoms_map_360days_accumulation_latest.png" alt="MSWEP 2.8.0 latest 360 days accumulation" title="MSWEP 2.8.0 latest 360 days accumulation" width="700"/>
 
-
 ### Virtual Stations timeseries 
-
-#### accumulation (mm)
-
-<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/TMS_virtual_stations_timeseries_1days_accumulation_90days_latest.png" alt="MSWEP 2.8.0 Virtual Stations timeseries accumulation" title="MSWEP 2.8.0 Virtual Stations timeseries accumulation" width="700"/>
 
 #### anomalies (mm)
 
-<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/TMS_virtual_stations_timeseries_1days_accumulation_anomalies_90days_latest.png" alt="MSWEP 2.8.0 Virtual Stations timeseries anomalies" title="MSWEP 2.8.0 Virtual Stations timeseries anomalies" width="700"/>
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/TMS_virtual_stations_timeseries_1days_accumulation_anomalies_latest.png" alt="MSWEP 2.8.0 Virtual Stations timeseries anomalies" title="MSWEP 2.8.0 Virtual Stations timeseries anomalies" width="700"/>
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
