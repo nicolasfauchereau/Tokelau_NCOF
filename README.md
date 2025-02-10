@@ -56,21 +56,34 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (Principal Sc
 
 Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.8.0](https://www.gloh2o.org/mswep/). Accumulation periods available are: 1, 7, 30, 60, 90, 180 and 360 days. Climatologies (average accumulations, and percentiles [0.01, 0.10, 0.20, 0.25, 0.3333, 0.50, 0.6666, 0.75, 0.80, 0.90, 0.99]) are calculated over the period **1991 - 2020**. 
 
-### latest daily anomalies map 
+### latest anomalies map 
 
 #### 1 day accumulation (mm)
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_anoms_map_1days_accumulation_latest.png" alt="MSWEP 2.8.0 latest 1 days accumulation" title="MSWEP 2.8.0 latest 1 days accumulation" width="700"/>
 
-#### 30 day accumulation (mm)
+#### 30 days accumulation (mm)
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_anoms_map_30days_accumulation_latest.png" alt="MSWEP 2.8.0 latest 30 days accumulation" title="MSWEP 2.8.0 latest 30 days accumulation" width="700"/>
 
-#### 30 day accumulation (mm)
+#### 60 days accumulation (mm)
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_anoms_map_60days_accumulation_latest.png" alt="MSWEP 2.8.0 latest 60 days accumulation" title="MSWEP 2.8.0 latest 60 days accumulation" width="700"/>
 
-### Virtual Stations timeseries (daily)
+#### 90 days accumulation (mm)
+
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_anoms_map_90days_accumulation_latest.png" alt="MSWEP 2.8.0 latest 90 days accumulation" title="MSWEP 2.8.0 latest 90 days accumulation" width="700"/>
+
+#### 180 days accumulation (mm)
+
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_anoms_map_180days_accumulation_latest.png" alt="MSWEP 2.8.0 latest 180 days accumulation" title="MSWEP 2.8.0 latest 180 days accumulation" width="700"/>
+
+#### 360 days accumulation (mm)
+
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_anoms_map_360days_accumulation_latest.png" alt="MSWEP 2.8.0 latest 360 days accumulation" title="MSWEP 2.8.0 latest 360 days accumulation" width="700"/>
+
+
+### Virtual Stations timeseries 
 
 #### accumulation (mm)
 
