@@ -68,7 +68,7 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 
 #### 30 day accumulation (mm)
 
-<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_anoms_map_30days_accumulation_latest.png" alt="MSWEP 2.8.0 latest 30 days accumulation" title="MSWEP 2.8.0 latest 30 days accumulation" width="700"/>
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_anoms_map_60days_accumulation_latest.png" alt="MSWEP 2.8.0 latest 60 days accumulation" title="MSWEP 2.8.0 latest 60 days accumulation" width="700"/>
 
 ### Virtual Stations timeseries (daily)
 
