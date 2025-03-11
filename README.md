@@ -54,7 +54,7 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (Principal Sc
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## near realtime precipitation monitoring
 
-Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.8.0](https://www.gloh2o.org/mswep/). Accumulation periods available are: 1, 7, 30, 60, 90, 180 and 360 days. Climatologies (average accumulations, and percentiles [0.01, 0.10, 0.20, 0.25, 0.3333, 0.50, 0.6666, 0.75, 0.80, 0.90, 0.99]) are calculated over the period **1991 - 2020**. 
+Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.8.0](https://www.gloh2o.org/mswep/). Accumulation periods available are: 1, 30, 60, 90, 180 and 360 days. Climatologies (average accumulations, and percentiles [0.01, 0.10, 0.20, 0.25, 0.3333, 0.50, 0.6666, 0.75, 0.80, 0.90, 0.99]) are calculated over the period **1991 - 2020**. 
 
 ### latest anomalies map 
 
