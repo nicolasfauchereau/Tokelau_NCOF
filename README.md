@@ -111,7 +111,22 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## monthly and seasonal climate forecasting 
 
-### deciles probabilities for Fakaofo, Nukunonu and Atafu 
+### monthly tercile probabilities for Fakaofo, Nukunonu and Atafu 
+
+#### Fakaofo 
+
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/monthly_terciles_probs_Fakaofo_latest.png" alt="tercile probabilities for Fakaofo" title="tercile probabilities for Fakaofo" width="700"/>
+
+#### Nukunonu
+
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/monthly_terciles_probs_Nukunonu_latest.png" alt="tercile probabilities for Nukunonu" title="tercile probabilities for Nukunonu" width="700"/>
+
+#### Atafu
+
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/monthly_terciles_probs_Atafu_latest.png" alt="tercile probabilities for Atafu" title="tercile probabilities for Atafu" width="700"/>
+
+
+### monthly deciles probabilities for Fakaofo, Nukunonu and Atafu 
 
 #### Fakaofo 
 
@@ -123,7 +138,7 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 
 #### Atafu
 
-<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/Nukunonu_monthly_decile_probs_latest.png" alt="decile probabilities for Nukunonu" title="decile probabilities for Nukunonu" width="700"/>
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/Nukunonu_monthly_decile_probs_latest.png" alt="decile probabilities for Atafu" title="decile probabilities for Nukunonu" width="700"/>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## subseasonal forecasting 
