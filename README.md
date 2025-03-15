@@ -138,7 +138,7 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 
 #### Atafu
 
-<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/Nukunonu_monthly_decile_probs_latest.png" alt="decile probabilities for Atafu" title="decile probabilities for Nukunonu" width="700"/>
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/Atafu_monthly_decile_probs_latest.png" alt="decile probabilities for Atafu" title="decile probabilities for Atafu" width="700"/>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## subseasonal forecasting 
