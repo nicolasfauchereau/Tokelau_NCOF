@@ -1,0 +1,11 @@
+[project]
+authors = ["fauchereaun <nicolas.fauchereau@niwa.co.nz>"]
+channels = ["conda-forge"]
+name = "Tokelau_NCOF"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+gh = "push_to_github.sh"
+
+[dependencies]
