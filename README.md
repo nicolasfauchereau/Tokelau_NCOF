@@ -61,7 +61,6 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (NIWA Princip
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/C3S_SST_anomalies_forecasts_latest.png" alt="Monthly SST anomalies forecasts" title="Monthly SST anomalies forecasts" width="700"/>
 
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## near realtime precipitation monitoring
 
