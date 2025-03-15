@@ -11,7 +11,7 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (Principal Sc
     - [SST time-series for Tokelau’s Exclusive Economic Zone (EEZ)](#sst-time-series-for-tokelaus-exclusive-economic-zone-eez)
 - [Near Realtime Precipitation Monitoring](#near-realtime-precipitation-monitoring)
     - [Latest daily anomalies maps](#latest-daily-anomalies-map)
-    - [Virtual Stations timeseries (daily)](#virtual-stations-timeseries-daily)
+    - [Virtual Stations timeseries (daily)](#virtual-stations-timeseries)
 - [Monthly and Seasonal Climate Forecasting](#monthly-and-seasonal-climate-forecasting)
     - [Deciles probabilities for Fakaofo, Nukunonu and Atafu](#deciles-probabilities-for-fakaofo-nukunonu-and-atafu)
 - [Subseasonal Forecasting](#subseasonal-forecasting)
