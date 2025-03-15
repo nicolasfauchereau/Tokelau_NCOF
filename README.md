@@ -9,7 +9,7 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (NIWA Princip
 - [Sea Surface Temperature (SST) and Marine Heatwave (MHW) Tracking](#sea-surface-temperature-sst-and-marine-heatwave-mhw-tracking)
     - [SST anomalies maps and MHW conditions](#sst-anomalies-maps-and-mhw-conditions)
     - [SST time-series for Tokelau’s Exclusive Economic Zone (EEZ)](#sst-time-series-for-tokelaus-exclusive-economic-zone-eez)
-- [SST anomalies and Marine Heat Waves forecasts](#sst_anomalies_and_marine_heat_wave_forecasts)
+- [SST anomalies and Marine Heat Waves forecasts](#sst-anomalies-and-marine-heat-waves-forecasts)
 - [Near Realtime Precipitation Monitoring](#near-realtime-precipitation-monitoring)
     - [Latest daily anomalies maps](#latest-daily-anomalies-map)
     - [Virtual Stations timeseries (daily)](#virtual-stations-timeseries)
