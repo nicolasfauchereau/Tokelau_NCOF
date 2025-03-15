@@ -38,6 +38,8 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (Principal Sc
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/NOAA_CRW/NOAA-CRW_anoms_map_30days_agg_latest.png" alt="NOAA CRW 30 days anomalies map" title="NOAA CRW 30 days anomalies map" width="700"/>
 
+[Back to the Table of Contents](#table-of-contents)
+
 ### SST time-series for Tokelau's Exclusive Economic Zone (EEZ)
 
 #### daily anomalies
@@ -52,7 +54,7 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (Principal Sc
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/NOAA_CRW/NOAA-CRW_anoms_timeseries_30days_agg_latest.png" alt="NOAA CRW 30 days anomalies timeseries" title="NOAA CRW 30 days anomalies timeseries" width="700"/>
 
-[Table of Contents](#table-of-contents)
+[Back to the Table of Contents](#table-of-contents)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## near realtime precipitation monitoring
@@ -85,6 +87,8 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_anoms_map_360days_accumulation_latest.png" alt="MSWEP 2.8.0 latest 360 days accumulation" title="MSWEP 2.8.0 latest 360 days accumulation" width="700"/>
 
+[Back to the Table of Contents](#table-of-contents)
+
 ### Virtual Stations timeseries 
 
 #### 1 days anomalies (mm)
@@ -111,6 +115,8 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/TMS_virtual_stations_timeseries_360days_accumulation_anomalies_latest.png" alt="MSWEP 2.8.0 Virtual Stations timeseries anomalies" title="MSWEP 2.8.0 Virtual Stations timeseries anomalies" width="700"/>
 
+[Back to the Table of Contents](#table-of-contents)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## monthly and seasonal climate forecasting 
 
@@ -128,6 +134,7 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/monthly_terciles_probs_Atafu_latest.png" alt="tercile probabilities for Atafu" title="tercile probabilities for Atafu" width="700"/>
 
+[Back to the Table of Contents](#table-of-contents)
 
 ### monthly deciles probabilities 
 
@@ -142,6 +149,8 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 #### Atafu
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/Atafu_monthly_decile_probs_latest.png" alt="decile probabilities for Atafu" title="decile probabilities for Atafu" width="700"/>
+
+[Back to the Table of Contents](#table-of-contents)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Subseasonal forecasting 
@@ -163,6 +172,7 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 
 [Download Atafu Tide Calendar (PDF)](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Atafu_2025_Tide_Calendar.pdf)
 
+[Back to the Table of Contents](#table-of-contents)
 
 ### Tide calendars in png (per month)
 
@@ -211,3 +221,5 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 [October 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Atafu_2025_Tide_Calendar-9.png)  
 [November 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Atafu_2025_Tide_Calendar-10.png)  
 [December 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Atafu_2025_Tide_Calendar-11.png)
+
+[Back to the Table of Contents](#table-of-contents)
