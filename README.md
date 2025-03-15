@@ -4,21 +4,21 @@ This webpage is a preliminary clearing house for the climate products developed 
 
 Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (Principal Scientist, Climate & Analytics)
 
-## [Sea Surface Temperature (SST) and Marine Heatwave (MHW) Tracking](https://nicolasfauchereau.github.io/Tokelau_NCOF/#sea-surface-temperature-sst-and-marine-heatwave-mhw-tracking-1)
+## Table of Contents
 
-- ### [SST anomalies maps and MHW conditions](https://nicolasfauchereau.github.io/Tokelau_NCOF/#sst-anomalies-maps-and-mhw-conditions-1)
+- [Sea Surface Temperature (SST) and Marine Heatwave (MHW) Tracking](#sea-surface-temperature-sst-and-marine-heatwave-mhw-tracking)
+    - [SST anomalies maps and MHW conditions](#sst-anomalies-maps-and-mhw-conditions)
+    - [SST time-series for Tokelau’s Exclusive Economic Zone (EEZ)](#sst-time-series-for-tokelaus-exclusive-economic-zone-eez)
+- [Near Realtime Precipitation Monitoring](#near-realtime-precipitation-monitoring)
+    - [Latest daily anomalies maps](#latest-daily-anomalies-map)
+    - [Virtual Stations timeseries (daily)](#virtual-stations-timeseries-daily)
+- [Monthly and Seasonal Climate Forecasting](#monthly-and-seasonal-climate-forecasting)
+    - [Deciles probabilities for Fakaofo, Nukunonu and Atafu](#deciles-probabilities-for-fakaofo-nukunonu-and-atafu)
+- [Subseasonal Forecasting](#subseasonal-forecasting)
+- [Tides Calendar](#tides-calendar)
+    - [Tide calendars in PDF format](#tide-calendars-in-pdf-format)
+    - [Tide calendars in png (per month)](#tide-calendars-in-png-per-month)
 
-- ### [SST time-series for Tokelau’s Exclusive Economic Zone (EEZ)](https://nicolasfauchereau.github.io/Tokelau_NCOF/#sst-time-series-for-tokelaus-exclusive-economic-zone-eez-1)
-
-## [near realtime precipitation monitoring](https://nicolasfauchereau.github.io/Tokelau_NCOF/#near-realtime-precipitation-monitoring-1)
-
-- ### [latest daily anomalies maps](https://nicolasfauchereau.github.io/Tokelau_NCOF/#latest-daily-anomalies-map)
-
-- ### [Virtual Stations timeseries (daily)](https://nicolasfauchereau.github.io/Tokelau_NCOF/#virtual-stations-timeseries-daily-1)
-
-## [monthly and seasonal climate forecasting](https://nicolasfauchereau.github.io/Tokelau_NCOF/#monthly-and-seasonal-climate-forecasting-1)
-
-- ### [deciles probabilities for Fakaofo, Nukunonu and Atafu](https://nicolasfauchereau.github.io/Tokelau_NCOF/#deciles-probabilities-for-fakaofo-nukunonu-and-atafu-1)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Sea Surface Temperature (SST) and Marine Heatwave (MHW) Tracking 
@@ -195,7 +195,7 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 [December 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Nukunonu_2025_Tide_Calendar-11.png)
 
 #### Atafu 
- 
+
 [January 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Atafu_2025_Tide_Calendar-0.png)  
 [February 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Atafu_2025_Tide_Calendar-1.png)  
 [March 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Atafu_2025_Tide_Calendar-2.png)  
