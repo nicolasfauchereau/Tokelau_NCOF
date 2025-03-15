@@ -1,8 +1,8 @@
 # Resources and climate products for Tokelau's National Climate Outlook Forum  
 
-This webpage is a preliminary clearing house for the climate products developed by NIWA to support Tokelau's National Climate Outlook Forums, funding provided by the WMO. 
+This webpage is a preliminary clearing house for the climate products developed by NIWA to support Tokelau's National Climate Outlook Forums (NCOFs), with funding provided by the WMO. 
 
-Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (Principal Scientist, Climate & Analytics)
+Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (NIWA Principal Scientist, Climate & Analytics)
 
 ## Table of Contents
 
