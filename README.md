@@ -9,6 +9,7 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (NIWA Princip
 - [Sea Surface Temperature (SST) and Marine Heatwave (MHW) Tracking](#sea-surface-temperature-sst-and-marine-heatwave-mhw-tracking)
     - [SST anomalies maps and MHW conditions](#sst-anomalies-maps-and-mhw-conditions)
     - [SST time-series for Tokelau’s Exclusive Economic Zone (EEZ)](#sst-time-series-for-tokelaus-exclusive-economic-zone-eez)
+- [SST anomalies and Marine Heat Waves forecasts](#sst_anomalies_and_marine_heat_wave_forecasts)
 - [Near Realtime Precipitation Monitoring](#near-realtime-precipitation-monitoring)
     - [Latest daily anomalies maps](#latest-daily-anomalies-map)
     - [Virtual Stations timeseries (daily)](#virtual-stations-timeseries)
@@ -55,6 +56,11 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (NIWA Princip
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/NOAA_CRW/NOAA-CRW_anoms_timeseries_30days_agg_latest.png" alt="NOAA CRW 30 days anomalies timeseries" title="NOAA CRW 30 days anomalies timeseries" width="700"/>
 
 [Back to the Table of Contents](#table-of-contents)
+
+## SST anomalies and Marine Heat Waves forecasts 
+
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/C3S_SST_anomalies_forecasts_latest.png" alt="Monthly SST anomalies forecasts" title="Monthly SST anomalies forecasts" width="700"/>
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## near realtime precipitation monitoring
