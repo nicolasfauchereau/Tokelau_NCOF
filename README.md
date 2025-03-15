@@ -59,7 +59,13 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (NIWA Princip
 
 ## SST anomalies and Marine Heat Waves forecasts 
 
+### SST anomalies
+
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/C3S_SST_anomalies_forecasts_latest.png" alt="Monthly SST anomalies forecasts" title="Monthly SST anomalies forecasts" width="1000"/>
+
+### MHW
+
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/C3S_MHW_probability_forecasts_latest.png" alt="Monthly MHW forecasts" title="Monthly MHW forecasts" width="1000"/>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## near realtime precipitation monitoring
