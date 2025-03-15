@@ -141,12 +141,12 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/Atafu_monthly_decile_probs_latest.png" alt="decile probabilities for Atafu" title="decile probabilities for Atafu" width="700"/>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## subseasonal forecasting 
+## Subseasonal forecasting 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## tides calendar 
+## Tides calendar 
 
-### tide calendars in PDF format 
+### Tide calendars in PDF format 
 
 #### Fakaofo 
 
@@ -159,3 +159,52 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 #### Atafu
 
 [Download Atafu Tide Calendar (PDF)](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Atafu_2025_Tide_Calendar.pdf)
+
+
+### Tide calendars in png (per month)
+
+#### Fakaofo 
+
+[January 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Fakaofo_2025_Tide_Calendar-0.png)  
+[February 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Fakaofo_2025_Tide_Calendar-1.png)  
+[March 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Fakaofo_2025_Tide_Calendar-2.png)  
+[April 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Fakaofo_2025_Tide_Calendar-3.png)  
+[May 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Fakaofo_2025_Tide_Calendar-4.png)  
+[June 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Fakaofo_2025_Tide_Calendar-5.png)  
+[July 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Fakaofo_2025_Tide_Calendar-6.png)  
+[August 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Fakaofo_2025_Tide_Calendar-7.png)  
+[September 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Fakaofo_2025_Tide_Calendar-8.png)  
+[October 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Fakaofo_2025_Tide_Calendar-9.png)  
+[November 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Fakaofo_2025_Tide_Calendar-10.png)  
+[December 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Fakaofo_2025_Tide_Calendar-11.png)
+
+
+#### Nukunonu 
+
+[January 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Nukunonu_2025_Tide_Calendar-0.png)  
+[February 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Nukunonu_2025_Tide_Calendar-1.png)  
+[March 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Nukunonu_2025_Tide_Calendar-2.png)  
+[April 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Nukunonu_2025_Tide_Calendar-3.png)  
+[May 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Nukunonu_2025_Tide_Calendar-4.png)  
+[June 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Nukunonu_2025_Tide_Calendar-5.png)  
+[July 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Nukunonu_2025_Tide_Calendar-6.png)  
+[August 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Nukunonu_2025_Tide_Calendar-7.png)  
+[September 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Nukunonu_2025_Tide_Calendar-8.png)  
+[October 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Nukunonu_2025_Tide_Calendar-9.png)  
+[November 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Nukunonu_2025_Tide_Calendar-10.png)  
+[December 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Nukunonu_2025_Tide_Calendar-11.png)
+
+#### Atafu 
+ 
+[January 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Atafu_2025_Tide_Calendar-0.png)  
+[February 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Atafu_2025_Tide_Calendar-1.png)  
+[March 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Atafu_2025_Tide_Calendar-2.png)  
+[April 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Atafu_2025_Tide_Calendar-3.png)  
+[May 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Atafu_2025_Tide_Calendar-4.png)  
+[June 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Atafu_2025_Tide_Calendar-5.png)  
+[July 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Atafu_2025_Tide_Calendar-6.png)  
+[August 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Atafu_2025_Tide_Calendar-7.png)  
+[September 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Atafu_2025_Tide_Calendar-8.png)  
+[October 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Atafu_2025_Tide_Calendar-9.png)  
+[November 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Atafu_2025_Tide_Calendar-10.png)  
+[December 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Atafu_2025_Tide_Calendar-11.png)
