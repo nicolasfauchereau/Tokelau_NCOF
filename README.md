@@ -13,7 +13,8 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (Principal Sc
     - [Latest daily anomalies maps](#latest-daily-anomalies-map)
     - [Virtual Stations timeseries (daily)](#virtual-stations-timeseries)
 - [Monthly and Seasonal Climate Forecasting](#monthly-and-seasonal-climate-forecasting)
-    - [Deciles probabilities for Fakaofo, Nukunonu and Atafu](#deciles-probabilities-for-fakaofo-nukunonu-and-atafu)
+    - [Terciles probabilities for Fakaofo, Nukunonu and Atafu](#monthly-terciles-probabilities)
+    - [Deciles probabilities for Fakaofo, Nukunonu and Atafu](#monthly-deciles-probabilities)
 - [Subseasonal Forecasting](#subseasonal-forecasting)
 - [Tides Calendar](#tides-calendar)
     - [Tide calendars in PDF format](#tide-calendars-in-pdf-format)
@@ -111,7 +112,7 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## monthly and seasonal climate forecasting 
 
-### monthly tercile probabilities for Fakaofo, Nukunonu and Atafu 
+### monthly tercile probabilities 
 
 #### Fakaofo 
 
@@ -126,7 +127,7 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/monthly_terciles_probs_Atafu_latest.png" alt="tercile probabilities for Atafu" title="tercile probabilities for Atafu" width="700"/>
 
 
-### monthly deciles probabilities for Fakaofo, Nukunonu and Atafu 
+### monthly deciles probabilities 
 
 #### Fakaofo 
 
