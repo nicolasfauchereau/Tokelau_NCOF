@@ -145,3 +145,17 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## tides calendar 
+
+### tide calendars in PDF format 
+
+#### Fakaofo 
+
+[Download Fakaofo Tide Calendar (PDF)](https://github.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Fakaofo_2025_Tide_Calendar.pdf)
+
+#### Nukunonu
+
+[Download Nukunonu Tide Calendar (PDF)](https://github.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Nukunonu_2025_Tide_Calendar.pdf)
+
+#### Atafu
+
+[Download Atafu Tide Calendar (PDF)](https://github.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Atafu_2025_Tide_Calendar.pdf)
