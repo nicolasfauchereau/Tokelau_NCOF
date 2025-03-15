@@ -13,8 +13,8 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (Principal Sc
     - [Latest daily anomalies maps](#latest-daily-anomalies-map)
     - [Virtual Stations timeseries (daily)](#virtual-stations-timeseries)
 - [Monthly and Seasonal Climate Forecasting](#monthly-and-seasonal-climate-forecasting)
-    - [Terciles probabilities for Fakaofo, Nukunonu and Atafu](#monthly-tercile-probabilities)
-    - [Deciles probabilities for Fakaofo, Nukunonu and Atafu](#monthly-decile-probabilities)
+    - [Terciles probabilities for Fakaofo, Nukunonu and Atafu](#monthly-terciles-probabilities)
+    - [Deciles probabilities for Fakaofo, Nukunonu and Atafu](#monthly-deciles-probabilities)
 - [Subseasonal Forecasting](#subseasonal-forecasting)
 - [Tides Calendar](#tides-calendar)
     - [Tide calendars in PDF format](#tide-calendars-in-pdf-format)
@@ -51,6 +51,8 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (Principal Sc
 #### 30 days anomalies
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/NOAA_CRW/NOAA-CRW_anoms_timeseries_30days_agg_latest.png" alt="NOAA CRW 30 days anomalies timeseries" title="NOAA CRW 30 days anomalies timeseries" width="700"/>
+
+[Table of Contents](#table-of-contents)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## near realtime precipitation monitoring
@@ -112,7 +114,7 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## monthly and seasonal climate forecasting 
 
-### monthly tercile probabilities 
+### monthly terciles probabilities 
 
 #### Fakaofo 
 
