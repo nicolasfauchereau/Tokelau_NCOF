@@ -17,8 +17,8 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (NIWA Princip
     - [Terciles probabilities for Fakaofo, Nukunonu and Atafu](#monthly-terciles-probabilities)
     - [Deciles probabilities for Fakaofo, Nukunonu and Atafu](#monthly-deciles-probabilities)
 - [Subseasonal Forecasting](#subseasonal-forecasting)
-    - [Weekly rainfall amounts (mm) from NOAA/GEFS]
-    - [Weekly rainfall anomalies (percentage of normal) from NOAA/GEFS]
+    - [Weekly rainfall amounts (mm) from NOAA/GEFS](#weekly-rainfall-amount-in-mm)
+    - [Weekly rainfall anomalies (percentage of normal) from NOAA/GEFS](#weekly-rainfall-anomalies-in-percentage-of-normal)
 - [Tides Calendar](#tides-calendar)
     - [Tide calendars in PDF format](#tide-calendars-in-pdf-format)
     - [Tide calendars in png (per month)](#tide-calendars-in-png-per-month)
@@ -167,6 +167,14 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Subseasonal forecasting 
+
+### Weekly rainfall amount in mm 
+
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/GEFS/weekly_rainfall.png" alt="Weekly rainfall forecast" title="Weekly rainfall forecast" width="1000"/>
+
+### Weekly rainfall aomalies in percentage of normal 
+
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/GEFS/weekly_rainfall_anomaly.png" alt="Weekly rainfall anomaly forecast" title="Weekly rainfall anomaly forecast" width="1000"/>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Tides calendar 
