@@ -17,6 +17,8 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (NIWA Princip
     - [Terciles probabilities for Fakaofo, Nukunonu and Atafu](#monthly-terciles-probabilities)
     - [Deciles probabilities for Fakaofo, Nukunonu and Atafu](#monthly-deciles-probabilities)
 - [Subseasonal Forecasting](#subseasonal-forecasting)
+    - [Weekly rainfall amounts (mm) from NOAA/GEFS]
+    - [Weekly rainfall anomalies (percentage of normal) from NOAA/GEFS]
 - [Tides Calendar](#tides-calendar)
     - [Tide calendars in PDF format](#tide-calendars-in-pdf-format)
     - [Tide calendars in png (per month)](#tide-calendars-in-png-per-month)
