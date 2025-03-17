@@ -250,6 +250,17 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 
 ## Wind and wind gust hourly forecast
 
+#### Fakaofo 
+
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/openmeteo/Fakaofo_atmo_wind_forecast.png" alt="Wind forecast for Fakaofo" title="Wind forecast for Fakaofo" width="900"/>
+
+#### Nukononu 
+
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/openmeteo/Nukononu_atmo_wind_forecast.png" alt="Wind forecast for Nukononu" title="Wind forecast for Nukononu" width="900"/>
+
+#### Atafu
+
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/openmeteo/Atafu_atmo_wind_forecast.png" alt="Wind forecast for Atafu" title="Wind forecast for Atafu" width="900"/>
+
 
 [Back to the Table of Contents](#table-of-contents)
