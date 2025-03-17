@@ -22,6 +22,7 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (NIWA Princip
 - [Tides Calendar](#tides-calendar)
     - [Tide calendars in PDF format](#tide-calendars-in-pdf-format)
     - [Tide calendars in png (per month)](#tide-calendars-in-png-per-month)
+- [wind and wind gust hourly forecast](#wind-and-wind-gust-hourly-forecast)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -244,5 +245,10 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 [October 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Atafu_2025_Tide_Calendar-9.png)  
 [November 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Atafu_2025_Tide_Calendar-10.png)  
 [December 2025](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/tides/Atafu_2025_Tide_Calendar-11.png)
+
+[Back to the Table of Contents](#table-of-contents)
+
+## Wind and wind gust hourly forecast
+
 
 [Back to the Table of Contents](#table-of-contents)
