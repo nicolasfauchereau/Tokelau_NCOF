@@ -254,9 +254,9 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/openmeteo/Fakaofo_atmo_wind_forecast.png" alt="Wind forecast for Fakaofo" title="Wind forecast for Fakaofo" width="900"/>
 
-#### Nukononu 
+#### Nukunonu 
 
-<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/openmeteo/Nukononu_atmo_wind_forecast.png" alt="Wind forecast for Nukononu" title="Wind forecast for Nukononu" width="900"/>
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/openmeteo/Nukunonu_atmo_wind_forecast.png" alt="Wind forecast for Nukunonu" title="Wind forecast for Nukunonu" width="900"/>
 
 #### Atafu
 
