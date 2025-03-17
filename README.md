@@ -172,7 +172,7 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/GEFS/weekly_rainfall.png" alt="Weekly rainfall forecast" title="Weekly rainfall forecast" width="1000"/>
 
-### Weekly rainfall aomalies in percentage of normal 
+### Weekly rainfall anomalies in percentage of normal 
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/GEFS/weekly_rainfall_anomaly.png" alt="Weekly rainfall anomaly forecast" title="Weekly rainfall anomaly forecast" width="1000"/>
 
