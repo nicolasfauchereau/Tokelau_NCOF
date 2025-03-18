@@ -12,7 +12,8 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (NIWA Princip
 - [SST anomalies and Marine Heat Waves forecasts](#sst-anomalies-and-marine-heat-waves-forecasts)
 - [Near Realtime Precipitation Monitoring](#near-realtime-precipitation-monitoring)
     - [Latest daily anomalies maps](#latest-anomalies-maps)
-    - [Virtual Stations timeseries (daily)](#virtual-stations-timeseries)
+    - [Virtual Stations with climatology](#virtual-stations-with-climatology)
+    - [Virtual Stations anomalies timeseries](#virtual-stations-anomalies-timeseries)
 - [Monthly and Seasonal Climate Forecasting](#monthly-and-seasonal-climate-forecasting)
     - [Terciles probabilities for Fakaofo, Nukunonu and Atafu](#monthly-terciles-probabilities)
     - [Deciles probabilities for Fakaofo, Nukunonu and Atafu](#monthly-deciles-probabilities)
@@ -103,7 +104,24 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 
 [Back to the Table of Contents](#table-of-contents)
 
-### Virtual Stations timeseries 
+### Virtual Stations with climatology
+
+#### 30 days accumulations 
+
+##### Fakaofo
+
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/Fakaofo_30_days_rainfall_accumulations_latest.png" alt="MSWEP 2.8.0, Fakaofo" title="MSWEP 2.8.0, Fakaofo" width="700"/>
+
+##### Nukunonu
+
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/Nukunonu_30_days_rainfall_accumulations_latest.png" alt="MSWEP 2.8.0, Nukunonu" title="MSWEP 2.8.0, Nukunonu" width="700"/>
+
+##### Atafu
+
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/Atafu_30_days_rainfall_accumulations_latest.png" alt="MSWEP 2.8.0, Atafu" title="MSWEP 2.8.0, Atafu" width="700"/>
+
+
+### Virtual Stations anomalies timeseries
 
 #### 1 days anomalies (mm)
 
