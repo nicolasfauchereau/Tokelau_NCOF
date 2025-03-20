@@ -25,8 +25,8 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (NIWA Princip
     - [Tide calendars in png (per month)](#tide-calendars-in-png-per-month)
 - [wind and wind gust hourly forecast](#wind-and-wind-gust-hourly-forecast)
 
+<hr style="border: 3px solid #000;">
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Sea Surface Temperature (SST) and Marine Heatwave (MHW) Tracking 
 
 ### SST anomalies maps and MHW conditions 
@@ -71,7 +71,8 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (NIWA Princip
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/C3S_MHW_probability_forecasts_latest.png" alt="Monthly MHW forecasts" title="Monthly MHW forecasts" width="1000"/>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<hr style="border: 3px solid #000;">
+
 ## near realtime precipitation monitoring
 
 Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.8.0](https://www.gloh2o.org/mswep/). Accumulation periods available are: 1, 30, 60, 90, 180 and 360 days. Climatologies (average accumulations, and percentiles [0.01, 0.10, 0.20, 0.25, 0.3333, 0.50, 0.6666, 0.75, 0.80, 0.90, 0.99]) are calculated over the period **1991 - 2020**. 
