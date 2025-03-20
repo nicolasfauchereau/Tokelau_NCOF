@@ -4,6 +4,8 @@ This webpage is a preliminary clearing house for the climate products developed 
 
 Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (NIWA Principal Scientist, Climate & Analytics)
 
+<hr style="border: 3px solid #000;">
+
 ## Table of Contents
 
 - [Sea Surface Temperature (SST) and Marine Heatwave (MHW) Tracking](#sea-surface-temperature-sst-and-marine-heatwave-mhw-tracking)
@@ -170,7 +172,8 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 
 [Back to the Table of Contents](#table-of-contents)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<hr style="border: 3px solid #000;">
+
 ## monthly and seasonal climate forecasting 
 
 ### monthly terciles probabilities 
@@ -205,7 +208,8 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 
 [Back to the Table of Contents](#table-of-contents)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<hr style="border: 3px solid #000;">
+
 ## Subseasonal forecasting 
 
 ### Weekly rainfall amount in mm 
@@ -218,7 +222,8 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 
 [Back to the Table of Contents](#table-of-contents)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<hr style="border: 3px solid #000;">
+
 ## Tides calendar 
 
 ### Tide calendars in PDF format 
