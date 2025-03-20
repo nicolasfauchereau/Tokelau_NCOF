@@ -305,6 +305,6 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 #### Atafu
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/openmeteo/Atafu_atmo_wind_forecast.png" alt="Wind forecast for Atafu" title="Wind forecast for Atafu" width="900"/>
-
+[![Back to the Table of Contents](https://img.icons8.com/ios-filled/16/000000/left.png)](#table-of-contents)
 
 [Back to the Table of Contents](#table-of-contents)
