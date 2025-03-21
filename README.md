@@ -11,19 +11,25 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (NIWA Princip
 - [Sea Surface Temperature (SST) and Marine Heatwave (MHW) Tracking](#sea-surface-temperature-sst-and-marine-heatwave-mhw-tracking)
     - [SST anomalies maps and MHW conditions](#sst-anomalies-maps-and-mhw-conditions)
     - [SST time-series for Tokelau’s Exclusive Economic Zone (EEZ)](#sst-time-series-for-tokelaus-exclusive-economic-zone-eez)
+--------------------------------------------------------------------------------------------------------------------------------------------
 - [SST anomalies and Marine Heat Waves forecasts](#sst-anomalies-and-marine-heat-waves-forecasts)
+--------------------------------------------------------------------------------------------------------------------------------------------
 - [Near Realtime Precipitation Monitoring](#near-realtime-precipitation-monitoring)
     - [Latest daily anomalies maps](#latest-anomalies-maps)
     - [Virtual Stations with climatology](#virtual-stations-with-climatology)
+--------------------------------------------------------------------------------------------------------------------------------------------
 - [Monthly and Seasonal Climate Forecasting](#monthly-and-seasonal-climate-forecasting)
     - [Terciles probabilities for Fakaofo, Nukunonu and Atafu](#monthly-terciles-probabilities)
     - [Deciles probabilities for Fakaofo, Nukunonu and Atafu](#monthly-deciles-probabilities)
+--------------------------------------------------------------------------------------------------------------------------------------------
 - [Subseasonal Forecasting](#subseasonal-forecasting)
     - [Weekly rainfall amounts (mm) from NOAA/GEFS](#weekly-rainfall-amount-in-mm)
     - [Weekly rainfall anomalies (percentage of normal) from NOAA/GEFS](#weekly-rainfall-anomalies-in-percentage-of-normal)
+--------------------------------------------------------------------------------------------------------------------------------------------
 - [Tides Calendar](#tides-calendar)
     - [Tide calendars in PDF format](#tide-calendars-in-pdf-format)
     - [Tide calendars in png (per month)](#tide-calendars-in-png-per-month)
+--------------------------------------------------------------------------------------------------------------------------------------------
 - [wind and wind gust hourly forecast](#wind-and-wind-gust-hourly-forecast)
 
 <hr style="border: 3px solid #000;">
@@ -62,6 +68,8 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (NIWA Princip
 
 [Back to the Table of Contents](#table-of-contents)
 
+<hr style="border: 3px solid #000;">
+
 ## SST anomalies and Marine Heat Waves forecasts 
 
 SST anomalies and MHW (Marine Heat Wave) forecasts are updated on the 13th of each month, and are based upon 9 different Coupled Ocean-Atmosphere General Circulation Models (AO-GCMs). 
@@ -77,6 +85,8 @@ MHW conditions are defined as SST values exceeding the climatological 90th perce
 ### MHW
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/C3S_MHW_probability_forecasts_latest.png" alt="Monthly MHW forecasts" title="Monthly MHW forecasts" width="1000"/>
+
+[Back to the Table of Contents](#table-of-contents)
 
 <hr style="border: 3px solid #000;">
 
