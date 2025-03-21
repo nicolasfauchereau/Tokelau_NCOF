@@ -180,15 +180,15 @@ The maps below show the percentile categories, aligned to the EAR (Early Action 
 
 ##### Fakaofo
 
-<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/Fakaofo_30_days_rainfall_accumulations_latest.png" alt="MSWEP 2.8.0, Fakaofo" title="MSWEP 2.8.0, Fakaofo" width="700"/>
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/Fakaofo_30_days_EAR_rainfall_accumulations_latest.png" alt="MSWEP 2.8.0, Fakaofo" title="MSWEP 2.8.0, Fakaofo" width="700"/>
 
 ##### Nukunonu
 
-<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/Nukunonu_30_days_rainfall_accumulations_latest.png" alt="MSWEP 2.8.0, Nukunonu" title="MSWEP 2.8.0, Nukunonu" width="700"/>
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/Nukunonu_30_days_EAR_rainfall_accumulations_latest.png" alt="MSWEP 2.8.0, Nukunonu" title="MSWEP 2.8.0, Nukunonu" width="700"/>
 
 ##### Atafu
 
-<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/Atafu_30_days_rainfall_accumulations_latest.png" alt="MSWEP 2.8.0, Atafu" title="MSWEP 2.8.0, Atafu" width="700"/>
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/Atafu_30_days_EAR_rainfall_accumulations_latest.png" alt="MSWEP 2.8.0, Atafu" title="MSWEP 2.8.0, Atafu" width="700"/>
 
 [Back to the Table of Contents](#table-of-contents)
 
