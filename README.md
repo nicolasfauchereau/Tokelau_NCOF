@@ -20,7 +20,8 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (NIWA Princip
 
 - [Near Realtime Precipitation Monitoring](#near-realtime-precipitation-monitoring)
     - [Latest daily anomalies maps](#latest-anomalies-maps)
-    - [Virtual Stations with climatology](#virtual-stations-with-climatology)
+    - [Percentile categories](#percentile-categories)
+    - [Virtual Stations time series with climatology](#virtual-stations-with-climatology)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -165,9 +166,13 @@ The maps below show the percentile categories, aligned to the EAR (Early Action 
 
 #### 30 days accumulations
 
+##### last 30 days map 
+
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_EAR_map_30_days_latest.png" alt="MSWEP 2.8.0 30 days accumulation" title="MSWEP 2.8.0 30 days accumulation" width="700"/>
+
 ##### Animation 
 
-<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_EAR_animation_map_180_days_latest.gif" alt="MSWEP 2.8.0 30 days accumulation" title="MSWEP 2.8.0 30 days accumulation" width="700"/>
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_EAR_animation_map_30_days_latest.gif" alt="MSWEP 2.8.0 30 days accumulation" title="MSWEP 2.8.0 30 days accumulation" width="700"/>
 
 ### Virtual Stations with climatology
 
