@@ -65,6 +65,12 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (NIWA Princip
 
 ## SST anomalies and Marine Heat Waves forecasts 
 
+SST anomalies and MHW (Marine Heat Wave) forecasts are updated on the 13th of each month, and are based upon 9 different Coupled Ocean-Atmosphere General Circulation Models (AO-GCMs). 
+
+The maps cover the current month (i.e. the month of initialisation) and 5 months in the future. 
+
+MHW conditions are defined as SST values exceeding the climatological 90th percentile (i.e. the top 10% of values). The climatological period is 1993 - 2016. 
+
 ### SST anomalies
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/C3S_SST_anomalies_forecasts_latest.png" alt="Monthly SST anomalies forecasts" title="Monthly SST anomalies forecasts" width="1000"/>
@@ -126,6 +132,22 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_anomaly_animation_map_360_days_latest.gif" alt="MSWEP 2.8.0 360 days accumulation" title="MSWEP 2.8.0 360 days accumulation" width="700"/>
 
 [Back to the Table of Contents](#table-of-contents)
+
+### Percentile categories 
+
+The maps below show the percentile categories, aligned to the EAR (Early Action Rainfall) Watch definitions, i.e. 
+
+- "Seriously dry": bottom 10% of values recorded over the climatological period (1991 - 2020), i.e below the 10th percentile 
+- Very dry": bottom 20% of values recorded over the climatological period (1991 - 2020), i.e below the 20th percentile 
+- "Very wet: top 20% of values recorded over the climatological period (1991 - 2020), i.e above the 20th percentile 
+- "Seriously wet": top 10% of values recorded over the climatological period (1991 - 2020), i.e above the 10th percentile
+
+#### 30 days accumulations
+
+##### Animation 
+
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_EAR_animation_map_180_days_latest.gif" alt="MSWEP 2.8.0 30 days accumulation" title="MSWEP 2.8.0 30 days accumulation" width="700"/>
+
 
 ### Virtual Stations with climatology
 
