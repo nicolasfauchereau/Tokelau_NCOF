@@ -15,7 +15,6 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (NIWA Princip
 - [Near Realtime Precipitation Monitoring](#near-realtime-precipitation-monitoring)
     - [Latest daily anomalies maps](#latest-anomalies-maps)
     - [Virtual Stations with climatology](#virtual-stations-with-climatology)
-    - [Virtual Stations anomalies timeseries](#virtual-stations-anomalies-timeseries)
 - [Monthly and Seasonal Climate Forecasting](#monthly-and-seasonal-climate-forecasting)
     - [Terciles probabilities for Fakaofo, Nukunonu and Atafu](#monthly-terciles-probabilities)
     - [Deciles probabilities for Fakaofo, Nukunonu and Atafu](#monthly-deciles-probabilities)
@@ -148,7 +147,6 @@ The maps below show the percentile categories, aligned to the EAR (Early Action 
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_EAR_animation_map_180_days_latest.gif" alt="MSWEP 2.8.0 30 days accumulation" title="MSWEP 2.8.0 30 days accumulation" width="700"/>
 
-
 ### Virtual Stations with climatology
 
 #### 30 days accumulations 
@@ -164,33 +162,6 @@ The maps below show the percentile categories, aligned to the EAR (Early Action 
 ##### Atafu
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/Atafu_30_days_rainfall_accumulations_latest.png" alt="MSWEP 2.8.0, Atafu" title="MSWEP 2.8.0, Atafu" width="700"/>
-
-
-### Virtual Stations anomalies timeseries
-
-#### 1 days anomalies (mm)
-
-<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/TMS_virtual_stations_timeseries_1days_accumulation_anomalies_latest.png" alt="MSWEP 2.8.0 Virtual Stations timeseries anomalies" title="MSWEP 2.8.0 Virtual Stations timeseries anomalies" width="700"/>
-
-#### 30 days anomalies (mm)
-
-<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/TMS_virtual_stations_timeseries_30days_accumulation_anomalies_latest.png" alt="MSWEP 2.8.0 Virtual Stations timeseries anomalies" title="MSWEP 2.8.0 Virtual Stations timeseries anomalies" width="700"/>
-
-#### 60 days anomalies (mm)
-
-<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/TMS_virtual_stations_timeseries_60days_accumulation_anomalies_latest.png" alt="MSWEP 2.8.0 Virtual Stations timeseries anomalies" title="MSWEP 2.8.0 Virtual Stations timeseries anomalies" width="700"/>
-
-#### 90 days anomalies (mm)
-
-<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/TMS_virtual_stations_timeseries_90days_accumulation_anomalies_latest.png" alt="MSWEP 2.8.0 Virtual Stations timeseries anomalies" title="MSWEP 2.8.0 Virtual Stations timeseries anomalies" width="700"/>
-
-#### 180 days anomalies (mm)
-
-<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/TMS_virtual_stations_timeseries_180days_accumulation_anomalies_latest.png" alt="MSWEP 2.8.0 Virtual Stations timeseries anomalies" title="MSWEP 2.8.0 Virtual Stations timeseries anomalies" width="700"/>
-
-#### 360 days anomalies (mm)
-
-<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/TMS_virtual_stations_timeseries_360days_accumulation_anomalies_latest.png" alt="MSWEP 2.8.0 Virtual Stations timeseries anomalies" title="MSWEP 2.8.0 Virtual Stations timeseries anomalies" width="700"/>
 
 [Back to the Table of Contents](#table-of-contents)
 
