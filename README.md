@@ -320,6 +320,8 @@ The maps below show the percentile categories, aligned to the EAR (Early Action 
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/openmeteo/Fakaofo_atmo_wind_forecast.png" alt="Wind forecast for Fakaofo" title="Wind forecast for Fakaofo" width="900"/>
 
+<iframe src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/openmeteo/Fakaofo.html" width="100%" height="600" style="border:none;"></iframe>
+
 #### Nukunonu 
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/openmeteo/Nukunonu_atmo_wind_forecast.png" alt="Wind forecast for Nukunonu" title="Wind forecast for Nukunonu" width="900"/>
@@ -327,5 +329,6 @@ The maps below show the percentile categories, aligned to the EAR (Early Action 
 #### Atafu
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/openmeteo/Atafu_atmo_wind_forecast.png" alt="Wind forecast for Atafu" title="Wind forecast for Atafu" width="900"/>
+
 
 [Back to the Table of Contents](#table-of-contents)
