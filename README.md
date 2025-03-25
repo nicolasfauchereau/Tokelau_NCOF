@@ -117,7 +117,7 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_anoms_map_30days_accumulation_latest.png" alt="MSWEP 2.8.0 latest 30 days accumulation" title="MSWEP 2.8.0 latest 30 days accumulation" width="700"/>
 
-##### Animation
+##### Animation over the past 90 days
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_anomaly_animation_map_30_days_latest.gif" alt="MSWEP 2.8.0 30 days accumulation" title="MSWEP 2.8.0 30 days accumulation" width="700"/>
 
@@ -133,7 +133,7 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_anoms_map_90days_accumulation_latest.png" alt="MSWEP 2.8.0 latest 90 days accumulation" title="MSWEP 2.8.0 latest 90 days accumulation" width="700"/>
 
-##### Animation
+##### Animation over the past 90 days
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_anomaly_animation_map_90_days_latest.gif" alt="MSWEP 2.8.0 90 days accumulation" title="MSWEP 2.8.0 90 days accumulation" width="700"/>
 
@@ -141,7 +141,7 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_anoms_map_180days_accumulation_latest.png" alt="MSWEP 2.8.0 latest 180 days accumulation" title="MSWEP 2.8.0 latest 180 days accumulation" width="700"/>
 
-##### Animation
+##### Animation over the past 90 days
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_anomaly_animation_map_180_days_latest.gif" alt="MSWEP 2.8.0 180 days accumulation" title="MSWEP 2.8.0 180 days accumulation" width="700"/>
 
@@ -149,7 +149,7 @@ Near realtime monitoring of precipitation quantities and indices using [MSWEP 2.
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_anoms_map_360days_accumulation_latest.png" alt="MSWEP 2.8.0 latest 360 days accumulation" title="MSWEP 2.8.0 latest 360 days accumulation" width="700"/>
 
-##### Animation
+##### Animation over the past 90 days
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_anomaly_animation_map_360_days_latest.gif" alt="MSWEP 2.8.0 360 days accumulation" title="MSWEP 2.8.0 360 days accumulation" width="700"/>
 
@@ -170,7 +170,7 @@ The maps below show the percentile categories, aligned to the EAR (Early Action 
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_EAR_map_30_days_latest.png" alt="MSWEP 2.8.0 30 days accumulation" title="MSWEP 2.8.0 30 days accumulation" width="700"/>
 
-##### Animation 
+##### Animation over the past 90 days
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_EAR_animation_map_30_days_latest.gif" alt="MSWEP 2.8.0 30 days accumulation" title="MSWEP 2.8.0 30 days accumulation" width="700"/>
 
