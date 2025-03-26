@@ -49,8 +49,13 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (NIWA Princip
 
 ### Training material: 
 
-    - ##### Day 1 
-    - ##### Day 2 
+##### Day 1 
+
+coming soon ... 
+
+##### Day 2 
+
+coming soon ...
 
 <hr style="border: 3px solid #000;">
 
