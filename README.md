@@ -47,6 +47,13 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (NIWA Princip
 
 <hr style="border: 3px solid #000;">
 
+### Training material: 
+
+    - Day 1 
+    - Day 2 
+
+<hr style="border: 3px solid #000;">
+
 ## Sea Surface Temperature (SST) and Marine Heatwave (MHW) Tracking 
 
 ### SST anomalies maps and MHW conditions 
