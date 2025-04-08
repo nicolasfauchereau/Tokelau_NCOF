@@ -1,6 +1,6 @@
 # Resources and climate products for Tokelau's National Climate Outlook Forum  
 
-This webpage is a preliminary clearing house for the climate products developed by NIWA to support Tokelau's National Climate Outlook Forums (NCOFs), with funding provided by the WMO. 
+This webpage is a **preliminary** clearing house for the climate products developed by NIWA to support Tokelau's National Climate Outlook Forums (NCOFs), with funding provided by the WMO. 
 
 Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (NIWA Principal Scientist, Climate & Analytics)
 
@@ -51,9 +51,13 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (NIWA Princip
 
 ##### Day 1 
 
+Day 1 training material provides an introduction to NCOFs (National Climate Outlook Forums), Climate Monitoring and Forecasting, Seasonal Climate Forecasting, and General Circulation Models (GCMs), ensembles and multi-model ensembles (MMEs) 
+
 coming soon ... 
 
 ##### Day 2 
+
+Day 2 training material provides an introduction on El Nino Southern Oscillation (ENSO), the data sources and methodologies underpinning the present products, and aids to their interpretation.
 
 coming soon ...
 
