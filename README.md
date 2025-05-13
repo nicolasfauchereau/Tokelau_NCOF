@@ -196,9 +196,9 @@ The maps below show the percentile categories, aligned to the EAR (Early Action 
 
 ##### Fakaofo
 
-<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/Fakaofo_30_days_EAR_rainfall_accumulations_latest.png" alt="MSWEP 2.8.0, Fakaofo" title="MSWEP 2.8.0, Fakaofo" width="700"/>
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/Fakaofo_30_days_EAR_rainfall_accumulations_latest.png" alt="MSWEP 2.8.0, Fakaofo" title="MSWEP 2.8.0, Fakaofo" width="700"/>  
 
-<iframe src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_EAR_plotly_plot_30_days_Fakaofo.html" width="100%" height="600" frameborder="0"></iframe>
+[Interactive 30-day rainfall accumulation plot for Fakaofo](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/MSWEP/MSWEP_EAR_plotly_plot_30_days_Fakaofo.html)
 
 ##### Nukunonu
 
