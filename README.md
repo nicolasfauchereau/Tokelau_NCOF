@@ -51,15 +51,11 @@ Author: [Nicolas Fauchereau](mailto:Nicolas.Fauchereau@niwa.co.nz) (NIWA Princip
 
 ##### Day 1 
 
-Day 1 training material provides an introduction to NCOFs (National Climate Outlook Forums), Climate Monitoring and Forecasting, Seasonal Climate Forecasting, and General Circulation Models (GCMs), ensembles and multi-model ensembles (MMEs) 
-
-coming soon ... 
-
+[Day 1 training material](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/training/TMS_NCOF_day_1.pdf) provides an introduction to NCOFs (National Climate Outlook Forums), Climate Monitoring and Forecasting, Seasonal Climate Forecasting, and General Circulation Models (GCMs), ensembles and multi-model ensembles (MMEs)
+ 
 ##### Day 2 
 
-Day 2 training material provides an introduction on El Nino Southern Oscillation (ENSO), the data sources and methodologies underpinning the present products, and aids to their interpretation.
-
-coming soon ...
+[Day 2 training material](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/training/TMS_NCOF_day_2.pdf) provides an introduction on El Nino Southern Oscillation (ENSO), the data sources and methodologies underpinning the present products, and aids to their interpretation.
 
 <hr style="border: 3px solid #000;">
 
