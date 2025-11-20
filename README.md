@@ -215,6 +215,8 @@ The maps below show the percentile categories, aligned to the EAR (Early Action 
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/monthly_terciles_probs_Fakaofo_latest.png" alt="tercile probabilities for Fakaofo" title="tercile probabilities for Fakaofo" width="700"/>
 
+[Download Fakaofo tercile probabilities (csv)](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/outputs/C3S/monthly_terciles_probs_Fakaofo_latest.csv)
+
 #### Nukunonu
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/monthly_terciles_probs_Nukunonu_latest.png" alt="tercile probabilities for Nukunonu" title="tercile probabilities for Nukunonu" width="700"/>
