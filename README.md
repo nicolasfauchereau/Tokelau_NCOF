@@ -222,14 +222,14 @@ Note: To download, right-click, save as and change the extension from 'txt' to '
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/monthly_terciles_probs_Nukunonu_latest.png" alt="tercile probabilities for Nukunonu" title="tercile probabilities for Nukunonu" width="700"/>
 
-[Download Nukunonu tercile probabilities (csv)](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/outputs/C3S/monthly_terciles_probs_Nukunonu_latest.csv)
+[Download Nukunonu tercile probabilities (csv)](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/outputs/C3S/monthly_terciles_probs_Nukunonu_latest.csv)  
 Note: To download, right-click, save as and change the extension from 'txt' to 'csv'
 
 #### Atafu
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/monthly_terciles_probs_Atafu_latest.png" alt="tercile probabilities for Atafu" title="tercile probabilities for Atafu" width="700"/>
 
-[Download Atafu tercile probabilities (csv)](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/outputs/C3S/monthly_terciles_probs_Atafu_latest.csv)
+[Download Atafu tercile probabilities (csv)](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/outputs/C3S/monthly_terciles_probs_Atafu_latest.csv)  
 Note: To download, right-click, save as and change the extension from 'txt' to 'csv'
 
 [Back to the Table of Contents](#table-of-contents)
