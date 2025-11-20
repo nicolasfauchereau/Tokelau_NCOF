@@ -243,6 +243,10 @@ Note: To download, right-click, save as and change the extension from 'txt' to '
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/Fakaofo_monthly_decile_probs_latest.png" alt="decile probabilities for Fakaofo" title="decile probabilities for Fakaofo" width="700"/>
 
+[Download Fakaofo decile probabilities (csv)](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/outputs/C3S/Fakaofo_monthly_decile_probs_latest.csv)  
+<br>
+Note: To download, right-click, save as and change the extension from 'txt' to 'csv'
+
 #### Nukunonu
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/Nukunonu_monthly_decile_probs_latest.png" alt="decile probabilities for Nukunonu" title="decile probabilities for Nukunonu" width="700"/>
