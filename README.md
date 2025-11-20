@@ -215,7 +215,8 @@ The maps below show the percentile categories, aligned to the EAR (Early Action 
 
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/monthly_terciles_probs_Fakaofo_latest.png" alt="tercile probabilities for Fakaofo" title="tercile probabilities for Fakaofo" width="700"/>
 
-[Download Fakaofo tercile probabilities (csv)](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/outputs/C3S/monthly_terciles_probs_Fakaofo_latest.csv)
+[Download Fakaofo tercile probabilities (csv)](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/outputs/C3S/monthly_terciles_probs_Fakaofo_latest.csv)  
+<br>
 Note: To download, right-click, save as and change the extension from 'txt' to 'csv'
 
 #### Nukunonu
@@ -223,6 +224,7 @@ Note: To download, right-click, save as and change the extension from 'txt' to '
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/monthly_terciles_probs_Nukunonu_latest.png" alt="tercile probabilities for Nukunonu" title="tercile probabilities for Nukunonu" width="700"/>
 
 [Download Nukunonu tercile probabilities (csv)](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/outputs/C3S/monthly_terciles_probs_Nukunonu_latest.csv)  
+<br>
 Note: To download, right-click, save as and change the extension from 'txt' to 'csv'
 
 #### Atafu
@@ -230,6 +232,7 @@ Note: To download, right-click, save as and change the extension from 'txt' to '
 <img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/monthly_terciles_probs_Atafu_latest.png" alt="tercile probabilities for Atafu" title="tercile probabilities for Atafu" width="700"/>
 
 [Download Atafu tercile probabilities (csv)](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/outputs/C3S/monthly_terciles_probs_Atafu_latest.csv)  
+<br>
 Note: To download, right-click, save as and change the extension from 'txt' to 'csv'
 
 [Back to the Table of Contents](#table-of-contents)
