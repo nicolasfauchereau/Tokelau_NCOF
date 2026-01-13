@@ -241,7 +241,7 @@ Note: To download, right-click, save as and change the extension from 'txt' to '
 
 #### Fakaofo 
 
-<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/Fakaofo_monthly_decile_probs_latest.png" alt="decile probabilities for Fakaofo" title="decile probabilities for Fakaofo" width="700"/>
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/Fakaofo_monthly_deciles_probs_latest.png" alt="decile probabilities for Fakaofo" title="decile probabilities for Fakaofo" width="700"/>
 
 [Download Fakaofo decile probabilities (csv)](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/outputs/C3S/monthly_decile_probs_Fakaofo_latest.csv)  
 <br>
@@ -249,7 +249,7 @@ Note: To download, right-click, save as and change the extension from 'txt' to '
 
 #### Nukunonu
 
-<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/Nukunonu_monthly_decile_probs_latest.png" alt="decile probabilities for Nukunonu" title="decile probabilities for Nukunonu" width="700"/>
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/Nukunonu_monthly_deciles_probs_latest.png" alt="decile probabilities for Nukunonu" title="decile probabilities for Nukunonu" width="700"/>
 
 [Download Nukunonu decile probabilities (csv)](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/outputs/C3S/monthly_decile_probs_Nukunonu_latest.csv)  
 <br>
@@ -257,7 +257,7 @@ Note: To download, right-click, save as and change the extension from 'txt' to '
 
 #### Atafu
 
-<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/Atafu_monthly_decile_probs_latest.png" alt="decile probabilities for Atafu" title="decile probabilities for Atafu" width="700"/>
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/C3S/Atafu_monthly_deciles_probs_latest.png" alt="decile probabilities for Atafu" title="decile probabilities for Atafu" width="700"/>
 
 [Download Atafu decile probabilities (csv)](https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/outputs/C3S/monthly_decile_probs_Atafu_latest.csv)  
 <br>
