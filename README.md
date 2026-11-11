@@ -270,13 +270,13 @@ Note: To download, right-click, save as and change the extension from 'txt' to '
 
 ## Subseasonal forecasting 
 
-### Weekly rainfall amount in mm 
+### Weekly rainfall anomaly (percentage of normal) 
 
-<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/GEFS/weekly_rainfall.png" alt="Weekly rainfall forecast" title="Weekly rainfall forecast" width="1000"/>
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/GEFS/tokelau_gefs_weekly_latest.png" alt="Weekly rainfall anomaly forecast" title="Weekly rainfall forecast" width="1000"/>
 
-### Weekly rainfall anomalies in percentage of normal 
+### 35-day rainfall anomalies (percentage of normal)
 
-<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/GEFS/weekly_rainfall_anomaly.png" alt="Weekly rainfall anomaly forecast" title="Weekly rainfall anomaly forecast" width="1000"/>
+<img src="https://raw.githubusercontent.com/nicolasfauchereau/Tokelau_NCOF/refs/heads/main/GEFS/tokelau_gefs_35day_latest.png" alt="35-day rainfall anomaly forecast" title="35-day rainfall anomaly forecast" width="1000"/>
 
 [Back to the Table of Contents](#table-of-contents)
 
